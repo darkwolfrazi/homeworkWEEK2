@@ -1,0 +1,17 @@
+h1{
+  text-decoration: underline; 
+}
+
+.question{
+  font-weight: bold;
+}
+
+#copyright { 
+  color: blue;
+  font-size: 80%  
+}
+
+body{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 120%
+}
